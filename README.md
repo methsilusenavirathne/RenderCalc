@@ -6,17 +6,20 @@ RenderCalc is a Blender addon that helps you calculate and optimize rendering ti
 
 To install RenderCalc, simply download the latest release from the [Releases](https://github.com/yourusername/RenderCalc/releases) page and follow these steps:
 
-1. Open Blender.
-2. Go to Edit > Preferences > Add-ons.
-3. Click the "Install" button and select the downloaded ZIP file.
-4. Enable the RenderCalc add-on by checking the box next to it.
-5. The addon will be appeared in the side panel of Blender UI
+1. Download the addon.py file from https://github.com/methsilusenavirathne/RenderCalc/releases/tag/RenderCalc
+2. Open Blender.
+3. Go to Edit > Preferences > Add-ons.
+4. Click the "Install" button and select theaddon.py file.
+5. Enable the RenderCalc add-on by checking the box next to it.
+6. The addon will be appeared in the side panel of Blender UI.
 
 ## Usage
 
-To use RenderCalc, open your Blender project and click the "RenderCalc" button in the Render Properties panel. This will open the RenderCalc interface, where you can select your render settings and calculate the estimated render time.
+To use RenderCalc, open your Blender project and click the "RenderCalc" button in the Render Properties panel. This will open the RenderCalc interface, where you can select your render settings and calculate the rendercost for your blender project when using your fiverr gig.
 
-RenderCalc also includes advanced features for optimizing your rendering times, such as the ability to identify and isolate problematic scenes or objects, adjust render settings to reduce render times, and export your render time data for further analysis.
+RenderCalc also includes advanced features for optimizing your rendering times, such as the ability to identify and isolate problematic scenes or objects, adjust render settings to reduce render times, and report your render cost data for further analysis.
+
+**The addon is still on its beta stage and only supports gpu render for the current frame to estimate render time. We are looking forward to add CPU rendering too.**
 
 ## Credits
 
