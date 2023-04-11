@@ -10,6 +10,7 @@ To install RenderCalc, simply download the latest release from the [Releases](ht
 2. Go to Edit > Preferences > Add-ons.
 3. Click the "Install" button and select the downloaded ZIP file.
 4. Enable the RenderCalc add-on by checking the box next to it.
+5. The addon will be appeared in the side panel of Blender UI
 
 ## Usage
 
@@ -19,8 +20,4 @@ RenderCalc also includes advanced features for optimizing your rendering times, 
 
 ## Credits
 
-RenderCalc was created by [Your Name](https://github.com/yourusername). If you have any questions, comments, or suggestions for new features, please feel free to contact me.
-
-## License
-
-RenderCalc is released under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
+RenderCalc was created by Lithika Senavirathne(https://github.com/methsilusenavirathne). If you have any questions, comments, or suggestions for new features, please feel free to contact me.
