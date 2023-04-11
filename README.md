@@ -1,5 +1,7 @@
 # RenderCalc
 
+![Logo](logo.svg)
+
 RenderCalc is a Blender addon that helps you calculate and optimize rendering times for your Blender projects. With RenderCalc, you can quickly estimate the time required to render your project, identify which scenes or objects are causing long render times, and tweak your settings to achieve faster rendering times.
 
 ## Installation
