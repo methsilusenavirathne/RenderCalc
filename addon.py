@@ -166,7 +166,7 @@ class Addon_Panel(bpy.types.Panel):
         box.label(text=f"Time : {user_render_time:.2f} seconds")
         box.label(text=f"Render Cost: {Render_cost:.3f} $")
         row = layout.row()
-        row.operator("wm.url_open", text="Render for Low cost", icon='WORLD').url = "https://www.fiverr.com/"
+        row.operator("wm.url_open", text="Render for Low cost", icon='WORLD').url = "https://www.fiverr.com/share/E2PR77"
 
 def register():
     bpy.utils.register_class(Addon_Panel)
