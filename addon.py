@@ -72,7 +72,7 @@ user_gpu_vram = gpu_info["vram"]
 
 Base_Gpu = gpu_list["NVIDIA GeForce RTX 2060"]
 Base_Gpu_power = Base_Gpu["power"]
-Base_Gpu_price = 5
+Base_Gpu_price = 1.5
 
 
 
